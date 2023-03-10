@@ -1,0 +1,9 @@
+.delete{
+position:absolute;
+top:50%;
+transform: translateY(-50%);
+right: 20px;
+color: red;
+font-size: 1.4rem;
+cursor: pointer;
+}
